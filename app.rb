@@ -11,5 +11,4 @@ class App < Sinatra::Base
     "My name is #{params[:name]}, and I love #{params[:favorite_food]}."
   end
 
-
 end
